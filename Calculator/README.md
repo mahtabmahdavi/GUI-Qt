@@ -9,8 +9,8 @@ This calculator is designed using [pyside6](https://doc.qt.io/qtforpython/) libr
 First install requirement package:
 ```
 pip install pyside6
-
 ```
+
 Then you can run this program:
 ```
 python main.py
