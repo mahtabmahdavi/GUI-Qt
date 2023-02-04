@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>402</width>
-    <height>335</height>
+    <width>719</width>
+    <height>421</height>
    </rect>
   </property>
   <property name="sizePolicy">
@@ -31,10 +31,10 @@
    <widget class="QLineEdit" name="input_text">
     <property name="geometry">
      <rect>
-      <x>30</x>
-      <y>30</y>
+      <x>40</x>
+      <y>40</y>
       <width>341</width>
-      <height>51</height>
+      <height>80</height>
      </rect>
     </property>
     <property name="sizePolicy">
@@ -58,8 +58,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_7">
     <property name="geometry">
      <rect>
-      <x>30</x>
-      <y>160</y>
+      <x>40</x>
+      <y>230</y>
       <width>60</width>
       <height>30</height>
      </rect>
@@ -93,8 +93,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_8">
     <property name="geometry">
      <rect>
-      <x>100</x>
-      <y>160</y>
+      <x>110</x>
+      <y>230</y>
       <width>60</width>
       <height>30</height>
      </rect>
@@ -128,8 +128,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_9">
     <property name="geometry">
      <rect>
-      <x>170</x>
-      <y>160</y>
+      <x>180</x>
+      <y>230</y>
       <width>60</width>
       <height>30</height>
      </rect>
@@ -163,8 +163,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_4">
     <property name="geometry">
      <rect>
-      <x>30</x>
-      <y>200</y>
+      <x>40</x>
+      <y>270</y>
       <width>60</width>
       <height>30</height>
      </rect>
@@ -198,8 +198,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_1">
     <property name="geometry">
      <rect>
-      <x>30</x>
-      <y>240</y>
+      <x>40</x>
+      <y>310</y>
       <width>60</width>
       <height>30</height>
      </rect>
@@ -233,8 +233,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_dot">
     <property name="geometry">
      <rect>
-      <x>30</x>
-      <y>280</y>
+      <x>40</x>
+      <y>350</y>
       <width>60</width>
       <height>30</height>
      </rect>
@@ -268,8 +268,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_5">
     <property name="geometry">
      <rect>
-      <x>100</x>
-      <y>200</y>
+      <x>110</x>
+      <y>270</y>
       <width>60</width>
       <height>30</height>
      </rect>
@@ -303,8 +303,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_2">
     <property name="geometry">
      <rect>
-      <x>100</x>
-      <y>240</y>
+      <x>110</x>
+      <y>310</y>
       <width>60</width>
       <height>30</height>
      </rect>
@@ -338,8 +338,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_6">
     <property name="geometry">
      <rect>
-      <x>170</x>
-      <y>200</y>
+      <x>180</x>
+      <y>270</y>
       <width>60</width>
       <height>30</height>
      </rect>
@@ -373,8 +373,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_0">
     <property name="geometry">
      <rect>
-      <x>100</x>
-      <y>280</y>
+      <x>110</x>
+      <y>350</y>
       <width>60</width>
       <height>30</height>
      </rect>
@@ -408,8 +408,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_3">
     <property name="geometry">
      <rect>
-      <x>170</x>
-      <y>240</y>
+      <x>180</x>
+      <y>310</y>
       <width>60</width>
       <height>30</height>
      </rect>
@@ -443,8 +443,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_equal">
     <property name="geometry">
      <rect>
-      <x>310</x>
-      <y>200</y>
+      <x>320</x>
+      <y>270</y>
       <width>60</width>
       <height>110</height>
      </rect>
@@ -478,10 +478,10 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_ac">
     <property name="geometry">
      <rect>
-      <x>29</x>
-      <y>100</y>
-      <width>81</width>
-      <height>51</height>
+      <x>40</x>
+      <y>150</y>
+      <width>90</width>
+      <height>30</height>
      </rect>
     </property>
     <property name="sizePolicy">
@@ -513,8 +513,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_sum">
     <property name="geometry">
      <rect>
-      <x>240</x>
-      <y>240</y>
+      <x>250</x>
+      <y>310</y>
       <width>60</width>
       <height>30</height>
      </rect>
@@ -548,8 +548,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_subtract">
     <property name="geometry">
      <rect>
-      <x>240</x>
-      <y>200</y>
+      <x>250</x>
+      <y>270</y>
       <width>60</width>
       <height>30</height>
      </rect>
@@ -583,8 +583,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_multiply">
     <property name="geometry">
      <rect>
-      <x>240</x>
-      <y>160</y>
+      <x>250</x>
+      <y>230</y>
       <width>60</width>
       <height>30</height>
      </rect>
@@ -618,8 +618,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_divide">
     <property name="geometry">
      <rect>
-      <x>240</x>
-      <y>120</y>
+      <x>250</x>
+      <y>190</y>
       <width>60</width>
       <height>30</height>
      </rect>
@@ -653,8 +653,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_square_root">
     <property name="geometry">
      <rect>
-      <x>310</x>
-      <y>120</y>
+      <x>320</x>
+      <y>190</y>
       <width>60</width>
       <height>30</height>
      </rect>
@@ -688,8 +688,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_power">
     <property name="geometry">
      <rect>
-      <x>310</x>
-      <y>160</y>
+      <x>320</x>
+      <y>230</y>
       <width>60</width>
       <height>30</height>
      </rect>
@@ -723,8 +723,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_negative">
     <property name="geometry">
      <rect>
-      <x>170</x>
-      <y>280</y>
+      <x>180</x>
+      <y>350</y>
       <width>60</width>
       <height>30</height>
      </rect>
@@ -758,8 +758,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_percent">
     <property name="geometry">
      <rect>
-      <x>240</x>
-      <y>280</y>
+      <x>250</x>
+      <y>350</y>
       <width>60</width>
       <height>30</height>
      </rect>
@@ -793,8 +793,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_tan">
     <property name="geometry">
      <rect>
-      <x>120</x>
-      <y>130</y>
+      <x>230</x>
+      <y>150</y>
       <width>30</width>
       <height>20</height>
      </rect>
@@ -828,8 +828,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_cot">
     <property name="geometry">
      <rect>
-      <x>160</x>
-      <y>130</y>
+      <x>270</x>
+      <y>150</y>
       <width>30</width>
       <height>20</height>
      </rect>
@@ -863,8 +863,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_mod">
     <property name="geometry">
      <rect>
-      <x>200</x>
-      <y>130</y>
+      <x>350</x>
+      <y>150</y>
       <width>30</width>
       <height>20</height>
      </rect>
@@ -898,8 +898,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_log">
     <property name="geometry">
      <rect>
-      <x>200</x>
-      <y>100</y>
+      <x>310</x>
+      <y>150</y>
       <width>30</width>
       <height>20</height>
      </rect>
@@ -933,8 +933,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_cos">
     <property name="geometry">
      <rect>
-      <x>160</x>
-      <y>100</y>
+      <x>190</x>
+      <y>150</y>
       <width>30</width>
       <height>20</height>
      </rect>
@@ -968,8 +968,8 @@ border-radius: 5px;</string>
    <widget class="QPushButton" name="btn_sin">
     <property name="geometry">
      <rect>
-      <x>120</x>
-      <y>100</y>
+      <x>150</x>
+      <y>150</y>
       <width>30</width>
       <height>20</height>
      </rect>
@@ -998,6 +998,130 @@ border-radius: 5px;</string>
     </property>
     <property name="flat">
      <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btn_open">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>190</y>
+      <width>60</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+      <italic>false</italic>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(70, 70, 70);
+color: rgb(255, 255, 255);
+font: 700 12pt &quot;Segoe UI&quot;;
+border-radius: 5px;</string>
+    </property>
+    <property name="text">
+     <string>(</string>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btn_closed">
+    <property name="geometry">
+     <rect>
+      <x>180</x>
+      <y>190</y>
+      <width>60</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+      <italic>false</italic>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(70, 70, 70);
+color: rgb(255, 255, 255);
+font: 700 12pt &quot;Segoe UI&quot;;
+border-radius: 5px;</string>
+    </property>
+    <property name="text">
+     <string>)</string>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btn_pi">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>190</y>
+      <width>60</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+      <italic>false</italic>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(70, 70, 70);
+color: rgb(255, 255, 255);
+font: 700 12pt &quot;Segoe UI&quot;;
+border-radius: 5px;</string>
+    </property>
+    <property name="text">
+     <string>π</string>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="output_text">
+    <property name="geometry">
+     <rect>
+      <x>420</x>
+      <y>40</y>
+      <width>261</width>
+      <height>341</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(175, 175, 175);
+color: rgb(0, 0, 0);
+font: 700 9pt &quot;Segoe UI&quot;;
+border-radius: 5px;</string>
+    </property>
+    <property name="text">
+     <string/>
     </property>
    </widget>
   </widget>
