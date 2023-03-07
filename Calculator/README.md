@@ -16,4 +16,4 @@ Then you can run this program:
 python main.py
 ```
 
-![Calculator](Mahtab'sCalculator.jpg)
+![Calculator](Images/calculator.jpg)
