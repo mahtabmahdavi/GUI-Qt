@@ -6,6 +6,7 @@ from functools import partial
 
 class Calculator(QMainWindow):
     def __init__(self):
+        # Properties
         super().__init__()
         self.num = ""
 
