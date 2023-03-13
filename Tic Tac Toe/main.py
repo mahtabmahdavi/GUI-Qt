@@ -5,7 +5,7 @@ from PySide6.QtWidgets import QApplication, QMainWindow, QMessageBox
 from PySide6.QtUiTools import QUiLoader
 
 
-class Tic_Tac_Toe(QMainWindow):
+class TicTacToe(QMainWindow):
     def __init__(self):
         super().__init__()
         loader = QUiLoader()
@@ -149,5 +149,5 @@ the game will be tied.""")
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
-    ui = Tic_Tac_Toe()
+    ui = TicTacToe()
     app.exec()
