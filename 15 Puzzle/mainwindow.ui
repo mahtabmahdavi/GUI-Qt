@@ -7,14 +7,32 @@
     <x>0</x>
     <y>0</y>
     <width>472</width>
-    <height>489</height>
+    <height>484</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>15 Puzzle</string>
   </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: #555E87;</string>
+  </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QGridLayout" name="gridLayout">
+    <property name="leftMargin">
+     <number>10</number>
+    </property>
+    <property name="topMargin">
+     <number>10</number>
+    </property>
+    <property name="rightMargin">
+     <number>10</number>
+    </property>
+    <property name="bottomMargin">
+     <number>10</number>
+    </property>
+    <property name="spacing">
+     <number>10</number>
+    </property>
     <item row="1" column="3">
      <widget class="QPushButton" name="btn_8">
       <property name="sizePolicy">
@@ -22,6 +40,17 @@
         <horstretch>0</horstretch>
         <verstretch>0</verstretch>
        </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>24</pointsize>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #FFF5EE;
+color: #555E87;
+border-radius: 5px;</string>
       </property>
       <property name="text">
        <string/>
@@ -36,6 +65,17 @@
         <verstretch>0</verstretch>
        </sizepolicy>
       </property>
+      <property name="font">
+       <font>
+        <pointsize>24</pointsize>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #FFF5EE;
+color: #555E87;
+border-radius: 5px;</string>
+      </property>
       <property name="text">
        <string/>
       </property>
@@ -48,6 +88,17 @@
         <horstretch>0</horstretch>
         <verstretch>0</verstretch>
        </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>24</pointsize>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #FFF5EE;
+color: #555E87;
+border-radius: 5px;</string>
       </property>
       <property name="text">
        <string/>
@@ -62,6 +113,17 @@
         <verstretch>0</verstretch>
        </sizepolicy>
       </property>
+      <property name="font">
+       <font>
+        <pointsize>24</pointsize>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #FFF5EE;
+color: #555E87;
+border-radius: 5px;</string>
+      </property>
       <property name="text">
        <string/>
       </property>
@@ -74,6 +136,17 @@
         <horstretch>0</horstretch>
         <verstretch>0</verstretch>
        </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>24</pointsize>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #FFF5EE;
+color: #555E87;
+border-radius: 5px;</string>
       </property>
       <property name="text">
        <string/>
@@ -88,6 +161,17 @@
         <verstretch>0</verstretch>
        </sizepolicy>
       </property>
+      <property name="font">
+       <font>
+        <pointsize>24</pointsize>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #FFF5EE;
+color: #555E87;
+border-radius: 5px;</string>
+      </property>
       <property name="text">
        <string/>
       </property>
@@ -100,6 +184,17 @@
         <horstretch>0</horstretch>
         <verstretch>0</verstretch>
        </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>24</pointsize>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #FFF5EE;
+color: #555E87;
+border-radius: 5px;</string>
       </property>
       <property name="text">
        <string/>
@@ -114,6 +209,17 @@
         <verstretch>0</verstretch>
        </sizepolicy>
       </property>
+      <property name="font">
+       <font>
+        <pointsize>24</pointsize>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #FFF5EE;
+color: #555E87;
+border-radius: 5px;</string>
+      </property>
       <property name="text">
        <string/>
       </property>
@@ -126,6 +232,17 @@
         <horstretch>0</horstretch>
         <verstretch>0</verstretch>
        </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>24</pointsize>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #FFF5EE;
+color: #555E87;
+border-radius: 5px;</string>
       </property>
       <property name="text">
        <string/>
@@ -140,6 +257,17 @@
         <verstretch>0</verstretch>
        </sizepolicy>
       </property>
+      <property name="font">
+       <font>
+        <pointsize>24</pointsize>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #FFF5EE;
+color: #555E87;
+border-radius: 5px;</string>
+      </property>
       <property name="text">
        <string/>
       </property>
@@ -152,6 +280,17 @@
         <horstretch>0</horstretch>
         <verstretch>0</verstretch>
        </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>24</pointsize>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #FFF5EE;
+color: #555E87;
+border-radius: 5px;</string>
       </property>
       <property name="text">
        <string/>
@@ -166,6 +305,17 @@
         <verstretch>0</verstretch>
        </sizepolicy>
       </property>
+      <property name="font">
+       <font>
+        <pointsize>24</pointsize>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #FFF5EE;
+color: #555E87;
+border-radius: 5px;</string>
+      </property>
       <property name="text">
        <string/>
       </property>
@@ -178,6 +328,17 @@
         <horstretch>0</horstretch>
         <verstretch>0</verstretch>
        </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>24</pointsize>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #FFF5EE;
+color: #555E87;
+border-radius: 5px;</string>
       </property>
       <property name="text">
        <string/>
@@ -192,6 +353,17 @@
         <verstretch>0</verstretch>
        </sizepolicy>
       </property>
+      <property name="font">
+       <font>
+        <pointsize>24</pointsize>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #FFF5EE;
+color: #555E87;
+border-radius: 5px;</string>
+      </property>
       <property name="text">
        <string/>
       </property>
@@ -205,6 +377,17 @@
         <verstretch>0</verstretch>
        </sizepolicy>
       </property>
+      <property name="font">
+       <font>
+        <pointsize>24</pointsize>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #FFF5EE;
+color: #555E87;
+border-radius: 5px;</string>
+      </property>
       <property name="text">
        <string/>
       </property>
@@ -217,6 +400,17 @@
         <horstretch>0</horstretch>
         <verstretch>0</verstretch>
        </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>24</pointsize>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #FFF5EE;
+color: #555E87;
+border-radius: 5px;</string>
       </property>
       <property name="text">
        <string/>
